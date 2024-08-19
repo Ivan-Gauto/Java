@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Ecuacion
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=esPositiva\ a_p\ b_p\ discriminante_p
+comment2.target=double\ calcularRaiz(boolean,\ double,\ double,\ double)
+comment3.params=a_p\ b_p
+comment3.target=double\ raizUnica(double,\ double)
+numComments=4

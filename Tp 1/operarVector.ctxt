@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=operarVector
+comment0.text=\r\n\ Clase\ que\ guarda\ notas\ de\ alumnos\ en\ un\ vector\ de\ enteros,\ calcula\ el\ promedio\ y\ busca\ la\ nota\ mas\ alta.\r\n\ \r\n\ @Ivan\ Gauto\ \r\n\ @13/08/24\r\n
+comment1.params=
+comment1.target=void\ main()
+comment2.params=
+comment2.target=int[]\ ingresarNotas()
+comment3.params=
+comment3.target=double\ calcularPromedio()
+comment4.params=
+comment4.target=int\ mayorNota()
+comment5.params=p_promedio\ p_mayorNota
+comment5.target=void\ mostrarNotas(double,\ int)
+numComments=6

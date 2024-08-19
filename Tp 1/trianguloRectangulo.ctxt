@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=trianguloRectangulo
+comment0.text=\r\n\ Clase\ que\ determina\ si\ un\ triangulo\ se\ clasifica\ como\ triangulo\ rectangulo.\r\n\ \r\n\ @Ivan\ Gauto\ \r\n\ @10/08/24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

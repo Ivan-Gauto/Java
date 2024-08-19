@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=triangulo
+comment0.text=\r\n\ Calcula\ el\ area\ de\ el\ semiperimetro\ de\ un\ triangulo.\r\n\ \r\n\ @Ivan\ Gauto\ \r\n\ @09/08/24\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a_p\ b_p\ c_p
+comment2.target=double\ semiperimetro(double,\ double,\ double)
+comment3.params=a_p\ b_p\ c_p\ semiPerimetro_p
+comment3.target=double\ area(double,\ double,\ double,\ double)
+numComments=4

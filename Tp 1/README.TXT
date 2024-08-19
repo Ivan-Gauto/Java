@@ -1,12 +1,11 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all they need to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
 PROJECT TITLE: 
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Trabajo Practico 1
+
+PURPOSE OF PROJECT: 
+El objetivo de esta serie es que el alumno se familiarice con la sintaxis básica del lenguaje de programación y con el entorno de trabajo (BlueJ). Por lo tanto los ejercicios se resolverán de modo procedural, efectuando los cálculos directamente en el método main().
+
+VERSION or DATE: 17.08.24
+
+AUTHORS: 
+Gauto, Ivan 
+Garavaglia, Miguel 

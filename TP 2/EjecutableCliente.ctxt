@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutableCliente
+comment0.text=\r\n\ Ejecutable\ de\ la\ clase\ Cliente\ que\ realiza\ una\ impresion\ de\ los\ datos\ del\ cliente\r\n\ \r\n\ @author\ (Garavaglia\ Miguel)\ \r\n\ @version\ (19.08.24)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

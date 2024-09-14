@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=EjecutablePunto
+comment0.text=\r\n\ Ejecutable\ de\ la\ clase\ Punto\ que\ ingresa\ los\ valores\ por\ teclado\r\n\ \r\n\ @author\ (Garavaglia\ Miguel)\ \r\n\ @version\ (20.08.24)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
